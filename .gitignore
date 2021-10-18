@@ -1,0 +1,8 @@
+#*.dat
+#*.data
+#*.pdb
+
+.dat
+.data
+data/
+output/
